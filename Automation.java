@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	ap.Python();
 	ap.Ruby();
 	ap.Language();
+	ap.Selenium();
 	
 	
 }
@@ -20,5 +21,8 @@ public void Java() {
 	// TODO Auto-generated method stub
 System.out.println("Java");
 	
+}public void Selenium() {
+	// TODO Auto-generated method stub
+	System.out.println("Selenium");
 }
 }
