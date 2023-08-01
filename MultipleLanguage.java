@@ -1,6 +1,6 @@
 package week3.assignday1;
 
-public abstract class MultipleLanguage implements Language {
+public abstract class MultipleLanguage implements Language ,TestTools{
 	public void Python() {
 		System.out.println("Python");
 				
